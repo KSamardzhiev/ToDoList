@@ -1,4 +1,4 @@
-# To-Do List <img src="https://github.com/KSamardzhiev/ToDoList/blob/master/GitPictures/checked.png" height=100px>
+# To-Do List <img src="https://github.com/KSamardzhiev/ToDoList/blob/master/GitPictures/checked.png" height=35px>
 The following code represents ToDoList iOS Application (not fully finished). Tutorial representation.
 
 ## UI of the application 
